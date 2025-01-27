@@ -14,26 +14,6 @@ This repository contains the solution for an eCommerce transactions dataset assi
    - Jupyter notebook demonstrating clustering on the customer data: `ANIL_JHA_Clustering.ipynb`  
    - PDF report with the number of clusters, DB Index, and visualizations: `ANIL_JHA_Clustering.pdf`
 
-## Repository Structure
-.
-├── FirstName_LastName_EDA.ipynb
-├── FirstName_LastName_EDA.pdf
-├── FirstName_LastName_Lookalike.ipynb
-├── FirstName_LastName_Lookalike.csv
-├── FirstName_LastName_Clustering.ipynb
-├── FirstName_LastName_Clustering.pdf
-├── data/
-│ ├── Customers.csv
-│ ├── Products.csv
-│ └── Transactions.csv
-└── README.md
-
-
-- *data/* folder contains the three CSV files:
-  - **Customers.csv**  
-  - **Products.csv**  
-  - **Transactions.csv**  
-
 ## Running the Notebooks
 
 1. **Set up a virtual environment** (optional but recommended)  
